@@ -1,0 +1,53 @@
+@import "_vars.scss";
+
+nav{
+    height: 90px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.page_options{
+    width: 300px;
+    height: 20px;
+
+}
+.page_options ul{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+}
+.page_options ul li{
+    list-style: none;
+}
+.page_options ul li a{
+    text-decoration: none;
+    color: $dark-color;
+}
+.user_options{
+    width: 150px;
+    padding-right: 50px;
+}
+.user_options ul{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.user_options ul li {
+    list-style: none;
+}
+.user_options ul li img{
+    width: 20px;
+    height: 20px;
+}

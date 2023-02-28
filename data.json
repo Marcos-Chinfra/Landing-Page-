@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "queso fresco",
+        "img": "https://brokebankvegan.com/wp-content/uploads/2021/01/Queso-Fresco-341x1-1.jpg",
+        "price": 1
+
+    },
+    {
+        "id": 2,
+        "name": "Crema pura",
+        "img": "https://i0.wp.com/www.vesuvio.mx/wp-content/uploads/2022/07/Crema-leche-vaca-01.jpg?ssl=1",
+        "price": 1
+
+    },
+    {
+        "id": 3,
+        "name": "Queso de capas",
+        "img": "https://lacteosnormandia.com/images/QUESODECAPAS.jpg",
+        "price": 2.56
+
+    },
+    {
+        "id": 4,
+        "name": "queso mozarella",
+        "img": "https://chicheriademente.com/wp-content/uploads/2020/08/Queso-mozzarella-8.png",
+        "price": 3.07
+
+    },
+    {
+        "id": 5,
+        "name": "queso pita",
+        "img": "https://i.pinimg.com/originals/60/11/3d/60113dc461af006f39fa2d4ec31aa8ac.jpg",
+        "price": 3.04
+
+    },
+    {
+        "id": 6,
+        "name": "queso con chile",
+        "img": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/01/receta-de-queso-de-yogurt-economico.jpg",
+        "price": 3.20
+
+    },
+    {
+        "id": 7,
+        "name": "queso con loroco",
+        "img": "https://sumerlabs.com/sumer-app-90b8f.appspot.com/product_photos%2F6fd975d2ca5af01be44e7651ad9a3c42%2F8a2d1520-23b0-11ed-ace6-5bc06160cd35?alt=media&token=0737f3c5-56b1-46c0-a599-381fe046a209",
+        "price": 3.20
+
+    },
+    {
+        "id": 8,
+        "name": "yogurt",
+        "img": "https://foolproofliving.com/wp-content/uploads/2017/12/Greek-Yogurt-Parfait-Recipe.jpg",
+        "price": 1.28
+
+    },
+    {
+        "id": 9,
+        "name": "mantequilla lavada",
+        "img": "https://www.65ymas.com/uploads/s1/49/23/14/bigstock-butter-swirls-margarine-or-sp-364240654_1_621x621.jpeg",
+        "price": 1.92
+
+    },
+    {
+        "id": 10,
+        "name": "mantequilla con ajo",
+        "img": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/03/receta-facil-de-mantequilla-conajo-y-hierbas-casera.jpg",
+        "price": 2.56
+
+    }
+]

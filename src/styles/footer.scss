@@ -1,0 +1,51 @@
+@import "_vars.scss";
+
+div .footer{
+    height: 150px;
+    background-color: $base-color;
+    color: $light-color;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.footer .email{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 20px;
+}
+.footer .redes{
+    display: flex;
+    flex-direction: column;
+
+    gap: 15px;
+}
+.footer .redes-img{
+    display: flex;
+    justify-content: space-around;
+}
+.footer .redes-img img{
+    width: 40px;
+    height: 40px;
+}
+
+.footer .contact form input{
+    width: 230px;
+    height: 25px;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+    border: none;
+}
+.footer  .contact form button{
+    background-color: $second-color;
+    border: none;
+    width: 60px;
+    height: 30px;
+    margin-left: 10px;
+    font-weight: bold;
+    color: $primary-color;
+    border-radius: 5px;
+}
